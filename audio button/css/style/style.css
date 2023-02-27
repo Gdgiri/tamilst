@@ -1,0 +1,259 @@
+body{
+  background: whitesmoke;
+  
+}
+
+
+
+.story1{
+  position: relative;
+  left: 350px;
+  width: 100px;
+  height: 170px;
+  bottom: 220px;
+  height: 50px;
+  font-size: 40px;
+  font-weight: bolder;
+  cursor: pointer;
+  
+}
+
+.story2{
+  position: relative;
+  left: 350px;
+  width: 100px;
+  height: 170px;
+  bottom: 220px;
+  height: 50px;
+  font-size: 40px;
+  font-weight: bolder;
+  cursor: pointer;
+  
+}
+
+.story3{
+  position: relative;
+  left: 350px;
+  width: 600px;
+  height: 170px;
+  bottom: 220px;
+  height: 50px;
+  font-size: 40px;
+  font-weight: bolder;
+  cursor: pointer;
+  
+}
+
+.story4{
+  position: relative;
+  left: 350px;
+  width: 600px;
+  height: 170px;
+  bottom: 220px;
+  height: 50px;
+  font-size: 40px;
+  font-weight: bolder;
+  cursor: pointer;
+  
+}
+
+.story5{
+  position: relative;
+  left: 350px;
+  width: 600px;
+  height: 170px;
+  bottom: 220px;
+  height: 50px;
+  font-size: 40px;
+  font-weight: bolder;
+  cursor: pointer;
+  
+}
+
+.story6{
+  position: relative;
+  left: 350px;
+  width: 300px;
+  height: 170px;
+  bottom: 220px;
+  height: 50px;
+  font-size: 40px;
+  font-weight: bolder;
+  cursor: pointer;
+  
+}
+
+.story7{
+  position: relative;
+  left: 350px;
+  width: 500px;
+  height: 170px;
+  bottom: 220px;
+  height: 50px;
+  font-size: 40px;
+  font-weight: bolder;
+  cursor: pointer;
+  
+}
+
+.story8{
+  position: relative;
+  left: 350px;
+  width: 450px;
+  height: 170px;
+  bottom: 220px;
+  height: 50px;
+  font-size: 40px;
+  font-weight: bolder;
+  cursor: pointer;
+  
+  
+}
+
+
+.nav{
+  background: white;
+  width: 1350px;
+  height: 200px;
+  position: relative;
+  
+}
+
+.img1{
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+
+
+.story1:hover{
+  color: #2370e8;
+}
+.story2:hover{
+  color: #2370e8;
+}
+.story3:hover{
+  color: #2370e8;
+}
+.story4:hover{
+  color: #2370e8;
+}
+.story5:hover{
+  color: #2370e8;
+}
+.story6:hover{
+  color: #2370e8;
+}
+.story7:hover{
+  color: #2370e8;
+}
+.story8:hover{
+  color: #2370e8;
+}
+
+.name{
+  position: relative;
+  left: 360px;
+  bottom: 200px;
+  
+}
+
+.description{
+  position: relative;
+  left: 360px;
+  bottom: 180px;
+  width: 550px;
+}
+
+.anbhu{
+  width: 450px;
+  height: 400px;
+  
+}
+
+.anbhu2{
+  width: 450px;
+  position: relative;
+  bottom: 100px;
+  
+}
+
+.heading{
+  height: 200px;
+  width: 350px;
+  position: relative;
+  
+ 
+}
+
+.heading1{
+  height: 200px;
+  width: 645px;
+  position: relative;
+  
+ 
+}
+
+
+.btn{
+  position: relative;
+  left: 350px;
+  bottom:150px;
+  background: #2370e8;
+  color: white;
+  border: 2px solid blue;
+}
+
+.btn:hover{
+  color: black;
+  background: rgb(65, 65, 230);
+}
+
+
+.link{
+  color: white;
+  background: #2370e8;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  position: relative;
+  left: 360px;
+  bottom: 147px;
+  border: 2px solid blue;
+  border-radius: 5px;
+  
+}
+
+.link:hover{
+  color: black;
+  background: rgb(65, 65, 230);
+}
+
+.pic{
+  height: 200px;
+  width: 1350px;
+}
+
+.google{
+  position: relative;
+  left: 900px;
+}
+
+@media screen and (min-width: 480px) {
+  .nav{
+    width: 480px;
+  }
+  .main{
+    width: 480px;
+  }
+}
+
+.main{
+  zoom: 100%;
+}
+
+.main2{
+  zoom: 50%;
+}
+
